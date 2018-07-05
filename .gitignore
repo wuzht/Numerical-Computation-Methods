@@ -1,3 +1,9 @@
 # word doc
 *.doc
 *.docx
+
+# Folders
+ref
+
+# files
+FFT.m
